@@ -1,0 +1,2 @@
+LANDING_BUCKET="dl-landing-zone-401868797180"
+PROCESSING_BUCKET="dl-processing-zone-401868797180"
